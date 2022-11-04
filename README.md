@@ -1,2 +1,2 @@
-# Setting-OS-MacOS
-Personal OS Setting
+# Setting-Desktop-MacOS
+Personal Desktop MacOS Setting
